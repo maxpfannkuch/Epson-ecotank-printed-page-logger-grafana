@@ -1,0 +1,10 @@
+{
+  "USAGE_URL": "https://printer.local/PRESENTATION/ADVANCED/INFO_MENTINFO/TOP",
+  "VERIFY_SSL": false,
+  "SPREADSHEET_ID": "YOUR_SPREADSHEET_ID_HERE",
+  "WORKSHEET": "UsageLog",
+  "GOOGLE_CREDS_JSON": "credentials.json",
+  "LOCAL_BACKUP_FILE": "usage_log.ndjson",
+  "PRINTER_IP": "printer.local",
+  "TIMEZONE": "Europe/Berlin"
+}
