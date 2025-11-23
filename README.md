@@ -1,5 +1,5 @@
 # Epson-ecotank-printed-page-logger-grafana
-# Epson Printer Usage Logger
+
 
 Der Epson Usage Logger liest periodisch Nutzungsdaten eines Epson-Druckers aus dem lokalen Netzwerk aus und speichert sie in einem Google Sheet. Das System ist für den Dauerbetrieb ausgelegt, läuft auf einem Raspberry Pi und ist widerstandsfähig gegenüber Netzwerk- und Geräteausfällen. Optional können die Daten in Grafana visualisiert werden.
 
